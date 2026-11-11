@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions or support
+    url: https://github.com/mansuglez/skills-introduction-to-repository-management/discussions
+    about: Please use the discussion board for questions that are not bug reports.
